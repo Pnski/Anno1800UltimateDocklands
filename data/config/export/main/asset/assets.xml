@@ -11,21 +11,21 @@
 					<!--ImportTrader_08_Unlock0-->
 					<Unlock>131849</Unlock>
 					<Trades>
-						<Item><Good>114371</Good></Item>  <!-- Goat Milk / Ziegenmilch -->
-						<Item><Good>114365</Good></Item>  <!-- Linseed / Leinsamen -->
-						<Item><Good>114401</Good></Item>  <!-- Finery / Gewänder -->
-						<Item><Good>114358</Good></Item>  <!-- Salt / Salz -->
-						<Item><Good>114359</Good></Item>  <!-- Dried Meat / Trockenfleisch -->
-						<Item><Good>114364</Good></Item>  <!-- Hbiscus  Petals / Hibiskusblüten -->
-						<Item><Good>114367</Good></Item>  <!-- Teff / Tef -->
-						<Item><Good>114368</Good></Item>  <!-- Indigo Dye / Indigo -->
-						<Item><Good>118724</Good></Item>  <!-- Ceramics / Keramik -->
-						<Item><Good>114408</Good></Item>  <!-- Spiced Flour / Gewürzmehl -->
-						<Item><Good>118728</Good></Item>  <!-- Lobster / Hummer -->
-						<Item><Good>117702</Good></Item>  <!-- Paper / Papier -->
-						<Item><Good>117698</Good></Item>  <!-- Illuminated Script / Chroniken -->
-						<Item><Good>117701</Good></Item>  <!-- Ornate Candles / Wachskerzen -->
-						<Item><Good>117699</Good></Item>  <!-- Lanterns / Laternen -->
+						<Item><Good>114371</Good></Item>
+						<Item><Good>114365</Good></Item>
+						<Item><Good>114401</Good></Item>
+						<Item><Good>114358</Good></Item>
+						<Item><Good>114359</Good></Item>
+						<Item><Good>114364</Good></Item>
+						<Item><Good>114367</Good></Item>
+						<Item><Good>114368</Good></Item>
+						<Item><Good>118724</Good></Item>
+						<Item><Good>114408</Good></Item>
+						<Item><Good>118728</Good></Item>
+						<Item><Good>117702</Good></Item>
+						<Item><Good>117698</Good></Item>
+						<Item><Good>117701</Good></Item>
+						<Item><Good>117699</Good></Item>
 					</Trades>
                 </Item>
             </TradeLevels>
