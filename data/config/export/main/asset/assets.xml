@@ -222,38 +222,38 @@
     </ModOp>
     <!-- Jakob -->
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010120">
-        <Item><Good>1500010120</Good></Item>
+        <Item><Good>1500010120</Good></Item><!-- Canned Fish-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010102">
-        <Item><Good>1500010102</Good></Item>
+        <Item><Good>1500010102</Good></Item><!-- Cheese-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1440224">
-        <Item><Good>1440224</Good></Item>
+        <Item><Good>1440224</Good></Item><!-- Hemp-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010105">
-        <Item><Good>1500010105</Good></Item>
+        <Item><Good>1500010105</Good></Item><!-- Olives-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010127">
-        <Item><Good>1500010127</Good></Item>
+        <Item><Good>1500010127</Good></Item><!-- Suits-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010847">
-        <Item><Good>1500010847</Good></Item>
+        <Item><Good>1500010847</Good></Item><!-- Tea-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010153">
-        <Item><Good>1500010153</Good></Item>
+        <Item><Good>1500010153</Good></Item><!-- Tools-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010836">
-        <Item><Good>1500010836</Good></Item>
+        <Item><Good>1500010836</Good></Item><!-- Vegetables-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010825">
-        <Item><Good>1500010825</Good></Item>
+        <Item><Good>1500010825</Good></Item><!-- Ropes-->
     </ModOp>
     <!-- Drakkam -->
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1555000091">
-        <Item><Good>1555000091</Good></Item>
+        <Item><Good>1555000091</Good></Item><!-- Marble Stone-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1555000093">
-        <Item><Good>1555000093</Good></Item>
+        <Item><Good>1555000093</Good></Item><!--Marble Slabs-->
     </ModOp>
     <!-- Hier0nimous -->
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110017">
@@ -285,10 +285,10 @@
     </ModOp>
     <!--DonnyBresko-->
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000302">
-        <Item><Good>1800000302</Good></Item><!--Holzspahn-->
+        <Item><Good>1800000302</Good></Item><!--Wood Chips-->
     </ModOp>
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000303">
-        <Item><Good>1800000303</Good></Item><!--Holzspahn-->
+        <Item><Good>1800000303</Good></Item><!--Pallets-->
     </ModOp>
     <!--Kurila-->
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500300000">
