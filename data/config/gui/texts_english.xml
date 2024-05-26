@@ -48,27 +48,15 @@
 		</Text>
 	</ModOp>
 	<ModOp Type = "add" Path="TextExport/Texts">
-	<!--1600000016 | Ultimate Docklands | 0.0.1 | Text Colossus
-	1600000017 | Ultimate Docklands | 0.0.1 | Text Colossus-->	
-		<Text>
-			<GUID>1600000016</GUID>
-			<Text>Colossus</Text>
-		</Text>
-		<Text>
-			<GUID>1600000017</GUID>
-			<Text>All goods, cheapest prices</Text>
-		</Text>
-	</ModOp>
-	<ModOp Type = "add" Path="TextExport/Texts">
-	<!--1600000018 | Ultimate Docklands | 0.0.1 | Text Horizon
-	1600000019 | Ultimate Docklands | 0.0.1 | Text Horizon-->	
-		<Text>
-			<GUID>1600000018</GUID>
-			<Text>New Horizon</Text>
-		</Text>
-		<Text>
-			<GUID>1600000019</GUID>
-			<Text>All goods, cheapest prices</Text>
-		</Text>
-	</ModOp>
+		<!--1600000016 | Ultimate Docklands | 0.0.1 | Text Mods
+		1600000017 | Ultimate Docklands | 0.0.1 | Text Mods-->	
+			<Text>
+				<GUID>1600000016</GUID>
+				<Text>Anno Mods</Text>
+			</Text>
+			<Text>
+				<GUID>1600000017</GUID>
+				<Text>All goods, cheapest prices</Text>
+			</Text>
+		</ModOp>
 </ModOps>

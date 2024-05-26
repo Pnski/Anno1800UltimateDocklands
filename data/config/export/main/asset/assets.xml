@@ -183,4 +183,86 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_arctic_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
+    <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
+		<Item>
+			<TraderName>1600000016</TraderName>
+			<TraderDesc>1600000017</TraderDesc>
+			<TradeLevels>
+				<Item>
+					<Unlock>131849</Unlock>
+					<Trades>
+					</Trades>
+                </Item>
+            </TradeLevels>
+            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_mods.png</TraderIcon>
+            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_mods.png</TraderMoodImage>
+        </Item>
+	</ModOp>
+    <!-- Taludas -->
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1999003397">
+        <Item><Good>1999003397</Good></Item><!-- Jaguar Fur /Taludas-->
+    </ModOp>
+    <!-- Jakob -->
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010120">
+        <Item><Good>1500010120</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010102">
+        <Item><Good>1500010102</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1440224">
+        <Item><Good>1440224</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010105">
+        <Item><Good>1500010105</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010127">
+        <Item><Good>1500010127</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010847">
+        <Item><Good>1500010847</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010153">
+        <Item><Good>1500010153</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010836">
+        <Item><Good>1500010836</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010825">
+        <Item><Good>1500010825</Good></Item>
+    </ModOp>
+    <!-- Drakkam -->
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1555000091">
+        <Item><Good>1555000091</Good></Item>
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1555000093">
+        <Item><Good>1555000093</Good></Item>
+    </ModOp>
+    <!-- Hier0nimous -->
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110017">
+        <Item><Good>1742110017</Good></Item><!--Djembé - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110019">
+        <Item><Good>1742110019</Good></Item><!--Saxophone - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110021">
+        <Item><Good>1742110021</Good></Item><!--Harp - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110023">
+        <Item><Good>1742110023</Good></Item><!--Piano - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110025">
+        <Item><Good>1742110025</Good></Item><!--Guitar - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110027">
+        <Item><Good>1742110027</Good></Item><!--Banjo - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110029">
+        <Item><Good>1742110029</Good></Item><!--Qilaut - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110071">
+        <Item><Good>1742110071</Good></Item><!--Music Hall - Product-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110098">
+        <Item><Good>1742110098</Good></Item><!--Flute - Product-->
+    </ModOp>
 </ModOps>
