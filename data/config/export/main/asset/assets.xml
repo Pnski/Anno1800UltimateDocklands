@@ -265,4 +265,11 @@
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110098">
         <Item><Good>1742110098</Good></Item><!--Flute - Product-->
     </ModOp>
+    <!--DonnyBresko-->
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000203">
+        <Item><Good>1800000203</Good></Item><!--Holzspahn-->
+    </ModOp>
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000204">
+        <Item><Good>1800000204</Good></Item><!--Pellets-->
+    </ModOp>
 </ModOps>
