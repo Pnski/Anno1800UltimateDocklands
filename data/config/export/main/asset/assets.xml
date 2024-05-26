@@ -11,25 +11,6 @@
 					<!--ImportTrader_08_Unlock0-->
 					<Unlock>131849</Unlock>
 					<Trades>
-						<Item><Good>120008</Good></Item>  <!-- Wood / Holz -->
-						<Item><Good>1010196</Good></Item> <!-- Timber / Bretter -->
-						<Item><Good>1010200</Good></Item> <!-- Fish / Fische -->
-						<Item><Good>1010195</Good></Item> <!-- Potatoes / Kartoffeln -->
-						<Item><Good>1010216</Good></Item> <!-- Schnapps / Schnaps -->
-						<Item><Good>1010197</Good></Item> <!-- Wool / Wolle -->
-						<Item><Good>1010237</Good></Item> <!-- Work Clothes / Arbeitskleidung -->
-						<Item><Good>1010201</Good></Item> <!-- Clay / Lehm -->
-						<Item><Good>1010205</Good></Item> <!-- Bricks / Ziegelsteine -->
-						<Item><Good>1010199</Good></Item> <!-- Pigs / Schweine -->
-						<Item><Good>1010238</Good></Item> <!-- Sausages / Wurst -->
-						<Item><Good>1010192</Good></Item> <!-- Grain / Getreide -->
-						<Item><Good>1010235</Good></Item> <!-- Flour / Mehl -->
-						<Item><Good>1010213</Good></Item> <!-- Bread / Brot -->
-						<Item><Good>1010210</Good></Item> <!-- Sails / Segel -->
-						<Item><Good>1010226</Good></Item> <!-- Coal / Kohle -->
-						<Item><Good>1010227</Good></Item> <!-- Iron / Eisen -->
-						<Item><Good>1010219</Good></Item> <!-- Steel / Stahl -->
-						<Item><Good>1010218</Good></Item> <!-- Steel Beams / Stahlträger -->
 						<Item><Good>1010234</Good></Item> <!-- Tallow / Talg -->
 						<Item><Good>1010203</Good></Item> <!-- Soap / Seife -->
 						<Item><Good>1010221</Good></Item> <!-- Weapons / Kanonen -->
@@ -168,12 +149,70 @@
 						<Item><Good>838</Good></Item>	  <!-- Aluminium Profiles / Aluminiumprofile  -->
 						<Item><Good>1414</Good></Item>	  <!-- Industrial Lubricant / Schmiermittel  -->
 						<Item><Good>840</Good></Item>	  <!-- Helium / Helium  -->
+                        <Item><Good>5380</Good></Item>
+                        <Item><Good>5381</Good></Item>
+                        <Item><Good>5382</Good></Item>
+                        <Item><Good>5383</Good></Item>
+                        <Item><Good>5384</Good></Item>
+                        <Item><Good>5386</Good></Item>
+                        <Item><Good>5388</Good></Item>
+                        <Item><Good>5390</Good></Item>
+                        <Item><Good>5391</Good></Item>
+                        <Item><Good>5392</Good></Item>
+                        <Item><Good>5395</Good></Item>
+                        <Item><Good>5397</Good></Item>
+                        <Item><Good>5398</Good></Item>
+                        <Item><Good>5400</Good></Item>
+                        <Item><Good>5401</Good></Item>
+                        <Item><Good>5803</Good></Item>
+                        <Item><Good>6280</Good></Item>
+                        <Item><Good>6600</Good></Item>
+                        <Item><Good>133095</Good></Item>
+                        <Item><Good>134616</Good></Item>
+                        <Item><Good>135130</Good></Item>
+                        <Item><Good>135150</Good></Item>
 					</Trades>
-					</Item>
-				</TradeLevels>
-				<TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_enbe_sa_0.png</TraderIcon>
-				<TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_10_0.png</TraderMoodImage>
-			</Item>
-		</Traders>
+                </Item>
+            </TradeLevels>
+            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_enbe_sa_0.png</TraderIcon>
+            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_10_0.png</TraderMoodImage>
+        </Item>
+	</ModOp>
+    <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders"> <!-- trades contracts -->
+		<Item>
+			<!--[Text] ENBE S.A. -->
+			<TraderName>131859</TraderName>
+			<!--[Text] ENBE S.A. constantly strive to break through the glass ceiling of understanding, to bridge the chasm between humankind and the deep secrets of infinity! -->
+			<TraderDesc>131860</TraderDesc>
+			<TradeLevels>
+				<Item>
+					<!--ImportTrader_08_Unlock0-->
+					<Unlock>131849</Unlock>
+					<Trades>
+						<Item><Good>120008</Good></Item>  <!-- Wood / Holz -->
+						<Item><Good>1010196</Good></Item> <!-- Timber / Bretter -->
+						<Item><Good>1010200</Good></Item> <!-- Fish / Fische -->
+						<Item><Good>1010195</Good></Item> <!-- Potatoes / Kartoffeln -->
+						<Item><Good>1010216</Good></Item> <!-- Schnapps / Schnaps -->
+						<Item><Good>1010197</Good></Item> <!-- Wool / Wolle -->
+						<Item><Good>1010237</Good></Item> <!-- Work Clothes / Arbeitskleidung -->
+						<Item><Good>1010201</Good></Item> <!-- Clay / Lehm -->
+						<Item><Good>1010205</Good></Item> <!-- Bricks / Ziegelsteine -->
+						<Item><Good>1010199</Good></Item> <!-- Pigs / Schweine -->
+						<Item><Good>1010238</Good></Item> <!-- Sausages / Wurst -->
+						<Item><Good>1010192</Good></Item> <!-- Grain / Getreide -->
+						<Item><Good>1010235</Good></Item> <!-- Flour / Mehl -->
+						<Item><Good>1010213</Good></Item> <!-- Bread / Brot -->
+						<Item><Good>1010210</Good></Item> <!-- Sails / Segel -->
+						<Item><Good>1010226</Good></Item> <!-- Coal / Kohle -->
+						<Item><Good>1010227</Good></Item> <!-- Iron / Eisen -->
+						<Item><Good>1010219</Good></Item> <!-- Steel / Stahl -->
+						<Item><Good>1010218</Good></Item> <!-- Steel Beams / Stahlträger -->
+					</Trades>
+                </Item>
+            </TradeLevels>
+            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_build-ing_0.png</TraderIcon>
+            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_20_0.png</TraderMoodImage>
+        </Item>
 	</ModOp>
 </ModOps>
