@@ -2,7 +2,7 @@
   "Version": "0.0.2",
   "ModID": "Ultimate_Docklands",
   "DeprecateIds": [],
-  "LoadAfterIds": [],
+  "LoadAfterIds": ["*"],
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
