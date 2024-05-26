@@ -11,104 +11,16 @@
 					<!--ImportTrader_08_Unlock0-->
 					<Unlock>131849</Unlock>
 					<Trades>
-						<Item><Good>1010221</Good></Item> <!-- Weapons / Kanonen -->
-						<Item><Good></Good></Item> <!-- Malt / Malz -->
-						<Item><Good></Good></Item> <!-- Beer / Bier -->
-						<Item><Good></Good></Item> <!-- Quartz Sand / Quarzsand -->
-						<Item><Good></Good></Item> <!-- Glass / Glas -->
-						<Item><Good></Good></Item> <!-- Beef / Rindfleisch -->
-						<Item><Good></Good></Item> <!-- Red Peppers / Paprika -->
-						<Item><Good></Good></Item> <!-- Goulash / Gulasch -->
-						<Item><Good></Good></Item> <!-- Canned Food / Fleischkonserven -->
-						<Item><Good></Good></Item> <!-- Sewing Machines / Nähmaschinen -->
-						
-						<Item><Good></Good></Item> <!-- Rum / Rum -->
-						<Item><Good></Good></Item> <!-- Furs / Felle -->
-
-						<Item><Good>1010247</Good></Item> <!-- Fur Coats / Pelzmäntel -->
-						<Item><Good>133183</Good></Item>  <!-- Jam / Konfitüre -->
-						<Item><Good>133181</Good></Item>  <!-- Shampoo / Shampoo -->
-						<Item><Good>133185</Good></Item>  <!-- Lemonade / Limonade -->
-						<Item><Good>133532</Good></Item>  <!-- Souvenirs / Souvenirs -->
-						<Item><Good>133093</Good></Item>  <!-- Cinnamon / Zimt -->
-						<Item><Good>133095</Good></Item>  <!-- Coconut Oil / Kokosöl -->
-						<Item><Good>133097</Good></Item>  <!-- Citrus / Zitrusfrüchte -->
-						<Item><Good>134616</Good></Item>  <!-- Camphor Wax / Kampfer -->
-						<Item><Good>1010231</Good></Item> <!-- Cement / Zement -->
-						<Item><Good>1010202</Good></Item> <!-- Reinforced Concrete / Stahlbeton -->
-						<Item><Good>1010229</Good></Item> <!-- Zinc / Zink -->
-						<Item><Good>1010230</Good></Item> <!-- Copper / Kupfer -->
-						<Item><Good>1010204</Good></Item> <!-- Brass / Messing -->
-						<Item><Good>120030</Good></Item>  <!-- Spectacles / Brillen -->
-						<Item><Good>1010232</Good></Item> <!-- Salpetre / Salpeter -->
-						<Item><Good>1010222</Good></Item> <!-- Dynamite / Dynamit -->
-						<Item><Good>1010223</Good></Item> <!-- Advanced Weapons / Schwere Geschütze -->
-						<Item><Good>1010255</Good></Item> <!-- Caoutchouc / Kautschuk -->
-						<Item><Good>1010245</Good></Item> <!-- Penny Farthings / Hochräder -->
-						<Item><Good>1010224</Good></Item> <!-- Steam Motors / Dampfmaschinen -->
-						<Item><Good>120031</Good></Item>  <!-- Coffee Beans / Kaffeebohnen -->
-						<Item><Good>120032</Good></Item>  <!-- Coffee / Kaffee -->
-						<Item><Good>1010233</Good></Item> <!-- Gold Ore / Gold -->
-						<Item><Good>1010249</Good></Item> <!-- Gold / Goldbarren -->
-						<Item><Good>1010246</Good></Item> <!-- Pocket Watches / Taschenuhren -->
-						<Item><Good>1010243</Good></Item> <!-- Filaments / Glühfäden -->
-						<Item><Good>1010208</Good></Item> <!-- Light Bulbs / Glühbirnen -->
-						<Item><Good>112706</Good></Item>  <!-- Gas / Gas -->
-						<Item><Good>120014</Good></Item>  <!-- Grapes / Trauben -->
-						<Item><Good>120016</Good></Item>  <!-- Champagne / Sekt -->
-						<Item><Good>1010252</Good></Item> <!-- Tobacco / Tabak -->
-						<Item><Good>1010242</Good></Item> <!-- Wood Veneers / Holzfurnier -->
-						<Item><Good>1010259</Good></Item> <!-- Cigars / Zigarren -->
-						<Item><Good>1010254</Good></Item> <!-- Cocoa / Kakao -->
-						<Item><Good>1010239</Good></Item> <!-- Sugar Cane / Zucker -->
-						<Item><Good>1010258</Good></Item> <!-- Chocolate / Schokolade -->
-						<Item><Good>1010256</Good></Item> <!-- Pearls / Perlen -->
-						<Item><Good>1010250</Good></Item> <!-- Jewellery / Schmuck -->
-						<Item><Good>1010248</Good></Item> <!-- Gramophones / Phonographen -->
-						<Item><Good>1010211</Good></Item> <!-- Chassis / Fahrgestelle -->
-						<Item><Good>1010225</Good></Item> <!-- Steam Carriages / Dampfwagen -->
-						<Item><Good>134623</Good></Item>  <!-- Elevators / Fahrstühle -->
-						<Item><Good>135230</Good></Item>  <!-- Typewriter / Schreibmaschinen -->
-						<Item><Good>135229</Good></Item>  <!-- Biscuits / Kekse -->
-						<Item><Good>135086</Good></Item>  <!-- Resin / Harz -->
-						<Item><Good>135087</Good></Item>  <!-- Cherry Wood / Kirschholz -->
-						<Item><Good>135129</Good></Item>  <!-- Lacquer / Farben und Lacke -->
-						<Item><Good>135231</Good></Item>  <!-- Toys / Spielwaren -->
-						<Item><Good>135232</Good></Item>  <!-- Billiard Tables / Billardtische -->
-						<Item><Good>135233</Good></Item>  <!-- Violins / Violinen -->
-						<Item><Good>135234</Good></Item>  <!-- Cognac / Cognac -->
-						<Item><Good>135186</Good></Item>  <!-- Chewing Gum / Kaugummis -->						
-						<Item><Good>135150</Good></Item>  <!-- Celluloid / Zelluloid -->
-						<Item><Good>135130</Good></Item>  <!-- Ethanol / Ethanol -->
-						<Item><Good>114428</Good></Item>  <!-- Leather Boots / Lederstiefel -->
-						<Item><Good>114430</Good></Item>  <!-- Tailored Suits / Maßanzüge -->
-						<Item><Good>120037</Good></Item>  <!-- Bowler Hats / Melonen -->
-						<Item><Good>114390</Good></Item>  <!-- Hibiscus Tea / Hibiskustee -->
-						<Item><Good>114410</Good></Item>  <!-- Seafood Stew / Meeresfrüchte-Eintopf -->
-						<Item><Good>114404</Good></Item>  <!-- Tapestries / Wandteppiche -->
-						<Item><Good>114431</Good></Item>  <!-- Telephones / Telefone -->
-						<Item><Good>114414</Good></Item>  <!-- Clay Pipes / Tonpfeifen -->
 						<Item><Good>120042</Good></Item>  <!-- Fish Oil / Fischöl -->
-						<Item><Good>120041</Good></Item>  <!-- Plantains / Bananen -->
-						<Item><Good>120033</Good></Item>  <!-- Fried Plantains / Gebackene Bananen -->
+						<Item><Good></Good></Item>  <!-- Plantains / Bananen -->
+						<Item><Good></Good></Item>  <!-- Fried Plantains / Gebackene Bananen -->
 						<Item><Good>120036</Good></Item>  <!-- Alpaca Wool / Alpakawolle -->
 						<Item><Good>120043</Good></Item>  <!-- Ponchos / Ponchos -->
-						<Item><Good>120034</Good></Item>  <!-- Corn / Mais -->
-						<Item><Good>120035</Good></Item>  <!-- Tortillas / Tortillas -->
-						<Item><Good>120044</Good></Item>  <!-- Felt / Filz -->
-						<Item><Good>112699</Good></Item>  <!-- Whale Oil / Walöl -->
-						<Item><Good>112694</Good></Item>  <!-- Caribou Meat / Rentierfleisch -->
-						<Item><Good>112705</Good></Item>  <!-- Pemmican / Pemmikan -->
-						<Item><Good>112696</Good></Item>  <!-- Seal Skin / Robbenfelle -->
-						<Item><Good>112697</Good></Item>  <!-- Goose Feathers / Gänsefedern -->
-						<Item><Good>112701</Good></Item>  <!-- Sleeping Bags / Schlafsäcke -->
-						<Item><Good>112702</Good></Item>  <!-- Oil Lamps / Öllampen -->
-						<Item><Good>112695</Good></Item>  <!-- Bear Fur / Bärenfell -->
-						<Item><Good>112700</Good></Item>  <!-- Parkas / Parkas -->
-						<Item><Good>112698</Good></Item>  <!-- Huskies / Huskys -->
-						<Item><Good>112704</Good></Item>  <!-- Sleds / Schlitten -->
-						<Item><Good>112703</Good></Item>  <!-- Husky Sleds / Hundeschlitten -->
-						<Item><Good>114356</Good></Item>  <!-- Wanza Timber / Wanza-Bretter -->
+						<Item><Good></Good></Item>  <!-- Corn / Mais -->
+						<Item><Good></Good></Item>  <!-- Tortillas / Tortillas -->
+						<Item><Good></Good></Item>  <!-- Felt / Filz -->
+
+						
 						<Item><Good>114371</Good></Item>  <!-- Goat Milk / Ziegenmilch -->
 						<Item><Good>114365</Good></Item>  <!-- Linseed / Leinsamen -->
 						<Item><Good>114391</Good></Item>  <!-- Linen / Leinen -->
@@ -184,24 +96,12 @@
 						<Item><Good>1010205</Good></Item>
 						<Item><Good>1010218</Good></Item>
                         <Item><Good>1010207</Good></Item>
-                        <Item><Good>840</Good></Item>
+                        <Item><Good>1010202</Good></Item>
+                        <Item><Good>134623</Good></Item>
                         <Item><Good>838</Good></Item>
-					</Trades>
-                </Item>
-            </TradeLevels>
-            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_build-ing_0.png</TraderIcon>
-            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_20_0.png</TraderMoodImage>
-        </Item>
-	</ModOp>
-    <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
-		<Item>
-			<TraderName>1600000008</TraderName>
-			<TraderDesc>1600000009</TraderDesc>
-			<TradeLevels>
-				<Item>
-					<Unlock>131849</Unlock>
-					<Trades>
-						<Item><Good>120008</Good></Item>
+                        <Item><Good>112706</Good></Item>
+                        <Item><Good>840</Good></Item>
+                        <Item><Good>114356</Good></Item>
 					</Trades>
                 </Item>
             </TradeLevels>
@@ -217,12 +117,30 @@
 				<Item>
 					<Unlock>131849</Unlock>
 					<Trades>
-						<Item><Good>120008</Good></Item>
+                        <Item><Good>120014</Good></Item>
+						<Item><Good>1010243</Good></Item>
+                        <Item><Good>1010221</Good></Item>
+                        <Item><Good>1010223</Good></Item>
+                        <Item><Good>1010224</Good></Item>
+                        <Item><Good>133183</Good></Item>
+						<Item><Good>133181</Good></Item>
+						<Item><Good>133185</Good></Item>
+						<Item><Good>133532</Good></Item>
+                        <Item><Good>1010211</Good></Item>
+						<Item><Good>135230</Good></Item>
+						<Item><Good>135229</Good></Item>
+						<Item><Good>135086</Good></Item>
+						<Item><Good>135087</Good></Item>
+						<Item><Good>135129</Good></Item>
+						<Item><Good>135231</Good></Item>
+						<Item><Good>135232</Good></Item>
+						<Item><Good>135233</Good></Item>
+						<Item><Good>135234</Good></Item>
 					</Trades>
                 </Item>
             </TradeLevels>
-            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_build-ing_0.png</TraderIcon>
-            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_20_0.png</TraderMoodImage>
+            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_ow_0.png</TraderIcon>
+            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_ow_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
     <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
@@ -236,11 +154,23 @@
 						<Item><Good>1010251</Good></Item>
                         <Item><Good>1010253</Good></Item>
 						<Item><Good>1010240</Good></Item>
+                        <Item><Good>120031</Good></Item>
+                        <Item><Good>1010233</Good></Item>
+                        <Item><Good>133093</Good></Item>
+						<Item><Good>133095</Good></Item>
+						<Item><Good>133097</Good></Item>
+						<Item><Good>134616</Good></Item>
+                        <Item><Good>1010259</Good></Item>
+						<Item><Good>1010254</Good></Item>
+						<Item><Good>1010239</Good></Item>
+						<Item><Good>135186</Good></Item>					
+						<Item><Good>135150</Good></Item>
+						<Item><Good>135130</Good></Item>
 					</Trades>
                 </Item>
             </TradeLevels>
-            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_build-ing_0.png</TraderIcon>
-            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_20_0.png</TraderMoodImage>
+            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_nw_0.png</TraderIcon>
+            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_nw_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
     <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
@@ -251,12 +181,21 @@
 				<Item>
 					<Unlock>131849</Unlock>
 					<Trades>
-						<Item><Good>120008</Good></Item>
+                        <Item><Good>112699</Good></Item>
+						<Item><Good>112705</Good></Item>
+						<Item><Good>112696</Good></Item>
+						<Item><Good>112701</Good></Item>
+						<Item><Good>112702</Good></Item>
+						<Item><Good>112695</Good></Item>
+						<Item><Good>112700</Good></Item>
+						<Item><Good>112698</Good></Item>
+						<Item><Good>112704</Good></Item>
+						<Item><Good>112703</Good></Item>
 					</Trades>
                 </Item>
             </TradeLevels>
-            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_build-ing_0.png</TraderIcon>
-            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_20_0.png</TraderMoodImage>
+            <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_arctic_0.png</TraderIcon>
+            <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_arctic_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
 </ModOps>
