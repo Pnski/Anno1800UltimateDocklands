@@ -41,7 +41,6 @@
 				<Item>
 					<Unlock>131849</Unlock>
 					<Trades>
-						<Item><Good>120008</Good></Item>
 						<Item><Good>1010196</Good></Item>
 						<Item><Good>1010205</Good></Item>
 						<Item><Good>1010218</Good></Item>
@@ -202,10 +201,6 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_mods.png</TraderMoodImage>
         </Item>
 	</ModOp>
-    <!--test-->
-    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@112698">
-        <Item><Good>112698</Good></Item><!-- Jaguar Fur /Taludas-->
-    </ModOp>
     <!-- Taludas -->
     <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1999003397">
         <Item><Good>1999003397</Good></Item><!-- Jaguar Fur /Taludas-->
@@ -274,10 +269,10 @@
         <Item><Good>1742110098</Good></Item><!--Flute - Product-->
     </ModOp>
     <!--DonnyBresko-->
-    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000203">
-        <Item><Good>1800000203</Good></Item><!--Holzspahn-->
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000302">
+        <Item><Good>1800000302</Good></Item><!--Holzspahn-->
     </ModOp>
-    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000204">
-        <Item><Good>1800000204</Good></Item><!--Pellets-->
+    <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000303">
+        <Item><Good>1800000303</Good></Item><!--Holzspahn-->
     </ModOp>
 </ModOps>
