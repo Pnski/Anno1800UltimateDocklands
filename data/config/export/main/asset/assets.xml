@@ -12,22 +12,19 @@
 					<Unlock>131849</Unlock>
 					<Trades>
 						<Item><Good>1010221</Good></Item> <!-- Weapons / Kanonen -->
-						<Item><Good>1010194</Good></Item> <!-- Hops / Hopfen -->
-						<Item><Good>1010236</Good></Item> <!-- Malt / Malz -->
-						<Item><Good>1010214</Good></Item> <!-- Beer / Bier -->
-						<Item><Good>1010228</Good></Item> <!-- Quartz Sand / Quarzsand -->
-						<Item><Good>1010241</Good></Item> <!-- Glass / Glas -->
-						<Item><Good>1010207</Good></Item> <!-- Windows / Fenster -->
-						<Item><Good>1010193</Good></Item> <!-- Beef / Rindfleisch -->
-						<Item><Good>1010198</Good></Item> <!-- Red Peppers / Paprika -->
-						<Item><Good>1010215</Good></Item> <!-- Goulash / Gulasch -->
-						<Item><Good>1010217</Good></Item> <!-- Canned Food / Fleischkonserven -->
-						<Item><Good>1010206</Good></Item> <!-- Sewing Machines / Nähmaschinen -->
-						<Item><Good>1010251</Good></Item> <!-- Sugar Cane / Zuckerrohr -->
-						<Item><Good>1010257</Good></Item> <!-- Rum / Rum -->
-						<Item><Good>1010209</Good></Item> <!-- Furs / Felle -->
-						<Item><Good>1010253</Good></Item> <!-- Cotton / Baumwolle -->
-						<Item><Good>1010240</Good></Item> <!-- Cotton Fabric / Baumwollstoff -->
+						<Item><Good></Good></Item> <!-- Malt / Malz -->
+						<Item><Good></Good></Item> <!-- Beer / Bier -->
+						<Item><Good></Good></Item> <!-- Quartz Sand / Quarzsand -->
+						<Item><Good></Good></Item> <!-- Glass / Glas -->
+						<Item><Good></Good></Item> <!-- Beef / Rindfleisch -->
+						<Item><Good></Good></Item> <!-- Red Peppers / Paprika -->
+						<Item><Good></Good></Item> <!-- Goulash / Gulasch -->
+						<Item><Good></Good></Item> <!-- Canned Food / Fleischkonserven -->
+						<Item><Good></Good></Item> <!-- Sewing Machines / Nähmaschinen -->
+						
+						<Item><Good></Good></Item> <!-- Rum / Rum -->
+						<Item><Good></Good></Item> <!-- Furs / Felle -->
+
 						<Item><Good>1010247</Good></Item> <!-- Fur Coats / Pelzmäntel -->
 						<Item><Good>133183</Good></Item>  <!-- Jam / Konfitüre -->
 						<Item><Good>133181</Good></Item>  <!-- Shampoo / Shampoo -->
@@ -144,9 +141,7 @@
 						<Item><Good>5393</Good></Item>	  <!-- Fire Extinguishers  -->
 						<Item><Good>5394</Good></Item>	  <!-- Police equipment  -->
 						<Item><Good>836</Good></Item>	  <!-- Bauxite / Bauxit   -->
-						<Item><Good>838</Good></Item>	  <!-- Aluminium Profiles / Aluminiumprofile  -->
 						<Item><Good>1414</Good></Item>	  <!-- Industrial Lubricant / Schmiermittel  -->
-						<Item><Good>840</Good></Item>	  <!-- Helium / Helium  -->
                         <Item><Good>5380</Good></Item>
                         <Item><Good>5381</Good></Item>
                         <Item><Good>5382</Good></Item>
@@ -188,6 +183,9 @@
 						<Item><Good>1010196</Good></Item>
 						<Item><Good>1010205</Good></Item>
 						<Item><Good>1010218</Good></Item>
+                        <Item><Good>1010207</Good></Item>
+                        <Item><Good>840</Good></Item>
+                        <Item><Good>838</Good></Item>
 					</Trades>
                 </Item>
             </TradeLevels>
@@ -235,7 +233,9 @@
 				<Item>
 					<Unlock>131849</Unlock>
 					<Trades>
-						<Item><Good>120008</Good></Item>
+						<Item><Good>1010251</Good></Item>
+                        <Item><Good>1010253</Good></Item>
+						<Item><Good>1010240</Good></Item>
 					</Trades>
                 </Item>
             </TradeLevels>
