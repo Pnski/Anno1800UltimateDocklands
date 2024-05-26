@@ -1,0 +1,15 @@
+<ModOps>					
+	<ModOp Type = "add" Path="TextExport/Texts">
+		
+		<Text>
+			<GUID>2000131813</GUID>
+			<Text>annozon</Text>
+		</Text>
+		
+		<Text>
+			<GUID>2000131814</GUID>
+			<Text>All goods, cheapest prices</Text>
+		</Text>
+		
+	</ModOp>
+</ModOps>
