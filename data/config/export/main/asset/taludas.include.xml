@@ -1,7 +1,5 @@
 <ModOps>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1999003397">
-            <Item><Good>1999003397</Good></Item><!--Jaguar Fur-->
-        </ModOp>
+    <Group Condition="#Taludas_SharedExtraGoods">
         <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1999002211">
             <Item><Good>1999002211</Good></Item><!--Potash-->
         </ModOp>
@@ -17,4 +15,9 @@
         <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1999002215">
             <Item><Good>1999002215</Good></Item><!--Guacamole-->
         </ModOp>
+    </Group>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1999003397">
+            <Item><Good>1999003397</Good></Item><!--Jaguar Fur-->
+        </ModOp>
+
 </ModOps>

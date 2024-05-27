@@ -1,73 +1,48 @@
 <ModOps>
-
-    <Group Condition="//Values[Standard/GUID='1500300000']">
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500300000">
-            <Item><Good>1500300000</Good></Item><!--Barrels-->
-        </ModOp>
-    </Group>
-        <Group Condition="//Values[Standard/GUID='1404422300']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1404422300">
+    <Group Condition="#shared_products_extended_kurila">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1404422300']">
             <Item><Good>1404422300</Good></Item><!--Cattle-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1404420030']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1404420030">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1404420030']">
             <Item><Good>1404420030</Good></Item><!--Cherries-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500301151']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500301151">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500301151']">
             <Item><Good>1500301151</Good></Item><!--Cherry Timber-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500020010']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500020010">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500020010']">
             <Item><Good>1500020010</Good></Item><!--Sewing Thread-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500301148']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500301148">
-            <Item><Good>1500301148</Good></Item><!--Spice Powder-->
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500300000']">
+            <Item><Good>1500300000</Good></Item><!--Barrels-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500301150']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500301150">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500301150']">
             <Item><Good>1500301150</Good></Item><!--Wanza Wood-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500020000']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500020000">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500301148']">
+            <Item><Good>1500301148</Good></Item><!--Spice Powder-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500020000']">
             <Item><Good>1500020000</Good></Item><!--Wool Fabric-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1404420032']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1404420032">
+    </Group>
+    <Group Condition="#shared_products_kurila">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1404420032']">
             <Item><Good>1404420032</Good></Item><!--Apples-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500301073']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500301073">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500301073']">
             <Item><Good>1500301073</Good></Item><!--Coloured Tiles-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500300040']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500300040">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500300040']">
             <Item><Good>1500300040</Good></Item><!--Liqueur-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500300060']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500300060">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500300060']">
             <Item><Good>1500300060</Good></Item><!--Sandwiches-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500300020']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500300020">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500300020']">
             <Item><Good>1500300020</Good></Item><!--Smoked Fish-->
         </ModOp>
-</Group>
-        <Group Condition="//Values[Standard/GUID='1500010150']">
-<ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500010150">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1500010150']">
             <Item><Good>1500010150</Good></Item><!--Wooden Jewelry-->
         </ModOp>
-</Group>
+    </Group>
 </ModOps>
