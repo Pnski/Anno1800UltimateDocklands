@@ -205,5 +205,4 @@
     <Include File="bresko.include.xml" />
     <Include File="hier0nimus.include.xml" />
     <Include File="drakkam.include.xml" />
-    <Include File="kurila.include.xml" />
 </ModOps>
