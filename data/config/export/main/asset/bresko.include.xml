@@ -1,6 +1,6 @@
 <ModOps>
     <Group Condition="//Values[Standard/GUID='1800000302']">
-        <ModOp Type="Add" Path="@131764/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000302">
+        <ModOp Type="Add" Path="@131764/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1800000302']">
             <Item><Good>1800000302</Good></Item><!--Wood Chips-->
         </ModOp>
     </Group>
