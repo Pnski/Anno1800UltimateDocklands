@@ -201,10 +201,10 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_mods.png</TraderMoodImage>
         </Item>
 	</ModOp>
-    <Include File="taludas.xml" />
-    <Include File="jakob.xml" />
-    <Include File="donnybresko.xml" />
-    <Include File="hier0nimus.xml" />
-    <Include File="drakkam.xml" />
-    <Include File="kurila.xml" />
+    <Include File="taludas.include.xml" />
+    <Include File="jakob.include.xml" />
+    <Include File="bresko.include.xml" />
+    <Include File="hier0nimus.include.xml" />
+    <Include File="drakkam.include.xml" />
+    <Include File="kurila.include.xml" />
 </ModOps>

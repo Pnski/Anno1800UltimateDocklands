@@ -27,4 +27,7 @@
         <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110098">
             <Item><Good>1742110098</Good></Item><!--Flute - Product-->
         </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742000236">
+            <Item><Good>1742000236</Good></Item><!--Pine Trees-->
+        </ModOp>
 </ModOps>

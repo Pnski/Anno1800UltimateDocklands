@@ -3,7 +3,7 @@
         <ModOp Type="Add" Path="@131764/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000302">
             <Item><Good>1800000302</Good></Item><!--Wood Chips-->
         </ModOp>
-        <ModOp Type="Add" Path="@131764/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000303 and not(@131764/*[Good='1800000303'])">
+        <ModOp Type="Add" Path="@131764/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1800000303 and !@131764/*[Good='1800000303']">
             <Item><Good>1800000303</Good></Item><!--Pallets-->
         </ModOp>
 </ModOps>
