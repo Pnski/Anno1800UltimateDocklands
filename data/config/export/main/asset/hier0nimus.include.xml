@@ -1,75 +1,76 @@
 <ModOps>
-        <!-- Hier0nimous -->
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110017">
-            <Item><Good>1742110017</Good></Item><!--Djembé - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110019">
-            <Item><Good>1742110019</Good></Item><!--Saxophone - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110021">
-            <Item><Good>1742110021</Good></Item><!--Harp - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110023">
-            <Item><Good>1742110023</Good></Item><!--Piano - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110025">
-            <Item><Good>1742110025</Good></Item><!--Guitar - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110027">
-            <Item><Good>1742110027</Good></Item><!--Banjo - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110029">
-            <Item><Good>1742110029</Good></Item><!--Qilaut - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110071">
-            <Item><Good>1742110071</Good></Item><!--Music Hall - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110098">
-            <Item><Good>1742110098</Good></Item><!--Flute - Product-->
-        </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742000236">
+    <Group Condition="#christmas_special_christmas_trees">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742000236']">
             <Item><Good>1742000236</Good></Item><!--Pine Trees-->
         </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742000240">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742000240']">
             <Item><Good>1742000240</Good></Item><!--Christmas Trees-->
         </ModOp>
-        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1440231">
-            <Item><Good>1440231</Good></Item><!--Strings - Product (New Horizons GUID Range)-->
+    </Group>
+    <Group Condition="#music_to_my_ears">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742110071']">
+            <Item><Good>1742110071</Good></Item><!--Music Hall - Product-->
         </ModOp>
-        MILITARY PRODUCTS
-********************
-?1742100022 - Canteen (OW) - Product
-?1742100339 - Canteen (NW) - Product
-?1742100343 - Canteen (EN) - Product
-?1742100030 - Military Headquarters - Product
- - Cigarettes - Product
- - Military Uniforms - Product
-?1742100080 - Recreation Center - Product
-?1742100236 - Sanitation Facility - Product
-?1742100084 - Military Academy - Product
- - Cardgames - Product
-?1742100191 - Military Training Complex - Product
- - Basic Ammunition - Product
- - Shell Ammunition - Product
-- Horses - Product
-?1742100286 - Ammunition (Global fake) - Product
-?1742100072 - Basic Ammunition (Global fake) - Product
-?1742100073 - Shell Ammunition (Global fake) - Product
-?1742100074 - Gas Ammunition (Global fake) - Product
-?1742100075 - Bombs Ammunition (Global fake) - Product
- - Gunpowder - Product
-?1742100319 - Arctic Outpost - Product
-?1742100325 - New World Outpost - Product
-?1742100327 - Enbesa Outpost - Product
- - Heated Military Uniforms - Product
- - Galena - Product
- - Lead - Product
-1742100439 - Coins - Product
-?1742100465 - Propaganda Facility - Product
-?1742100466 - Military Prison - Product
- - Basic Weapons - Product
-?1742100009 - Military Warehouse - Product
-?1742100556 - Cemetery - Product
-?1742100564 - Field Hospital - Product
-1742100242 - Clean Water - Product
+    </Group>
+    <Group Condition="#military_attention">
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100022']">
+            <Item><Good>1742100022</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100339']">
+            <Item><Good>1742100339</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100343']">
+            <Item><Good>1742100343</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100030']">
+            <Item><Good>1742100030</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100080']">
+            <Item><Good>1742100080</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100236']">
+            <Item><Good>1742100236</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100084']">
+            <Item><Good>1742100084</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100191']">
+            <Item><Good>1742100191</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100319']">
+            <Item><Good>1742100319</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100325']">
+            <Item><Good>1742100325</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100327']">
+            <Item><Good>1742100327</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100465']">
+            <Item><Good>1742100465</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100009']">
+            <Item><Good>1742100009</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100556']">
+            <Item><Good>1742100556</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100564']">
+            <Item><Good>1742100564</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100242']">
+            <Item><Good>1742100242</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="!/Values[Standard/GUID='131764']/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1742100466']">
+            <Item><Good>1742100466</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+    <!--?1742100286 - Ammunition (Global fake) - Product
+    ?1742100072 - Basic Ammunition (Global fake) - Product
+    ?1742100073 - Shell Ammunition (Global fake) - Product
+    ?1742100074 - Gas Ammunition (Global fake) - Product
+    ?1742100075 - Bombs Ammunition (Global fake) - Product
+    1742100439 - Coins - Product-->
+    </Group>
+
+
 </ModOps>

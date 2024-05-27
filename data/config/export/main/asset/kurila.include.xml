@@ -1,5 +1,5 @@
 <ModOps>
-    <!--Kurila-->
+
     <Group Condition="//Values[Standard/GUID='1500300000']">
         <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1500300000">
             <Item><Good>1500300000</Good></Item><!--Barrels-->
