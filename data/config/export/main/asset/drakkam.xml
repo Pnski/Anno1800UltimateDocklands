@@ -1,0 +1,9 @@
+<ModOps>
+        <!-- Drakkam -->
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1555000091">
+            <Item><Good>1555000091</Good></Item><!-- Marble Stone-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1555000093">
+            <Item><Good>1555000093</Good></Item><!--Marble Slabs-->
+        </ModOp>
+</ModOps>

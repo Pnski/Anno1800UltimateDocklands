@@ -1,0 +1,30 @@
+<ModOps>
+        <!-- Hier0nimous -->
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110017">
+            <Item><Good>1742110017</Good></Item><!--Djembé - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110019">
+            <Item><Good>1742110019</Good></Item><!--Saxophone - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110021">
+            <Item><Good>1742110021</Good></Item><!--Harp - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110023">
+            <Item><Good>1742110023</Good></Item><!--Piano - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110025">
+            <Item><Good>1742110025</Good></Item><!--Guitar - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110027">
+            <Item><Good>1742110027</Good></Item><!--Banjo - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110029">
+            <Item><Good>1742110029</Good></Item><!--Qilaut - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110071">
+            <Item><Good>1742110071</Good></Item><!--Music Hall - Product-->
+        </ModOp>
+        <ModOp Type="Add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName='1600000016']/TradeLevels/Item/Trades" Condition="@1742110098">
+            <Item><Good>1742110098</Good></Item><!--Flute - Product-->
+        </ModOp>
+</ModOps>
