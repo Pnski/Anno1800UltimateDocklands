@@ -33,7 +33,7 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_10_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
-	<ModOp Type="addnextsibling" GUID='502233'>
+	<ModOp Type="addNextSibling" GUID='502233'>
 		<Asset>
 			<Template>ProductList</Template>
 			<Values>
@@ -99,7 +99,7 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_20_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
-	<ModOp Type="addnextsibling" GUID='502233'>
+	<ModOp Type="addNextSibling" GUID='502233'>
 		<Asset>
 			<Template>ProductList</Template>
 			<Values>
@@ -169,7 +169,7 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_ow_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
-	<ModOp Type="addnextsibling" GUID='502233'>
+	<ModOp Type="addNextSibling" GUID='502233'>
 		<Asset>
 			<Template>ProductList</Template>
 			<Values>
@@ -263,7 +263,7 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_nw_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
-	<ModOp Type="addnextsibling" GUID='502233'>
+	<ModOp Type="addNextSibling" GUID='502233'>
 		<Asset>
 			<Template>ProductList</Template>
 			<Values>
@@ -348,7 +348,7 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_arctic_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
-	<ModOp Type="addnextsibling" GUID='502233'>
+	<ModOp Type="addNextSibling" GUID='502233'>
 		<Asset>
 			<Template>ProductList</Template>
 			<Values>
@@ -388,12 +388,7 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_mods.png</TraderMoodImage>
         </Item>
 	</ModOp>
-    <Include File="taludas.include.xml" />
-    <Include File="jakob.include.xml" />
-    <Include File="bresko.include.xml" />
-    <Include File="hier0nimus.include.xml" />
-    <Include File="drakkam.include.xml" />
-	<ModOp Type="addnextsibling" GUID='502233'>
+	<ModOp Type="addNextSibling" GUID='502233'>
 		<Asset>
 			<Template>ProductList</Template>
 			<Values>
@@ -409,6 +404,11 @@
 			</Values>
 		</Asset>
 	</ModOp>
+    <Include File="taludas.include.xml" />
+    <Include File="jakob.include.xml" />
+    <Include File="bresko.include.xml" />
+    <Include File="hier0nimus.include.xml" />
+    <Include File="drakkam.include.xml" />
 	<ModOp Type="add" GUID='502242' Path="/Values/ProductList/List">
 		<Item><Product>1600000019</Product></Item>
 		<Item><Product>1600000020</Product></Item>
