@@ -33,6 +33,37 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_10_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
+	<ModOp Type="addnextsibling" GUID='502233'>
+		<Asset>
+			<Template>ProductList</Template>
+			<Values>
+				<Standard>
+					<GUID>1600000019</GUID>
+					<Name>EnbeSA_ImportGoods</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_dlc_docklands_128.png</IconFilename>
+				</Standard>
+				<ProductList>
+					<List>
+						<Item><Product>114371</Product></Item>
+						<Item><Product>114365</Product></Item>
+						<Item><Product>114401</Product></Item>
+						<Item><Product>114358</Product></Item>
+						<Item><Product>114359</Product></Item>
+						<Item><Product>114364</Product></Item>
+						<Item><Product>114367</Product></Item>
+						<Item><Product>114368</Product></Item>
+						<Item><Product>118724</Product></Item>
+						<Item><Product>114408</Product></Item>
+						<Item><Product>118728</Product></Item>
+						<Item><Product>117702</Product></Item>
+						<Item><Product>117698</Product></Item>
+						<Item><Product>117701</Product></Item>
+						<Item><Product>117699</Product></Item>
+					</List>
+				</ProductList>
+			</Values>
+		</Asset>
+	</ModOp>
     <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
 		<Item>
 			<TraderName>1600000008</TraderName>
@@ -68,6 +99,42 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_20_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
+	<ModOp Type="addnextsibling" GUID='502233'>
+		<Asset>
+			<Template>ProductList</Template>
+			<Values>
+				<Standard>
+					<GUID>1600000020</GUID>
+					<Name>Building_ImportGoods</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_dlc_docklands_128.png</IconFilename>
+				</Standard>
+				<ProductList>
+					<List>
+						<Item><Product>1010196</Product></Item>
+						<Item><Product>1010205</Product></Item>
+						<Item><Product>1010218</Product></Item>
+                        <Item><Product>1010207</Product></Item>
+                        <Item><Product>1010202</Product></Item>
+                        <Item><Product>134623</Product></Item>
+                        <Item><Product>838</Product></Item>
+                        <Item><Product>112706</Product></Item>
+                        <Item><Product>840</Product></Item>
+                        <Item><Product>114356</Product></Item>
+                        <Item><Product>114402</Product></Item>
+                        <Item><Product>846</Product></Item>
+						<Item><Product>847</Product></Item>
+						<Item><Product>848</Product></Item>
+						<Item><Product>849</Product></Item>
+						<Item><Product>850</Product></Item>
+                        <Item><Product>112518</Product></Item>
+                        <Item><Product>112520</Product></Item>
+                        <Item><Product>112523</Product></Item>
+                        <Item><Product>115980</Product></Item>
+					</List>
+				</ProductList>
+			</Values>
+		</Asset>
+	</ModOp>
     <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
 		<Item>
 			<TraderName>1600000010</TraderName>
@@ -101,6 +168,41 @@
             <TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_ow_0.png</TraderIcon>
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_ow_0.png</TraderMoodImage>
         </Item>
+	</ModOp>
+	<ModOp Type="addnextsibling" GUID='502233'>
+		<Asset>
+			<Template>ProductList</Template>
+			<Values>
+				<Standard>
+					<GUID>1600000021</GUID>
+					<Name>OW_ImportGoods</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_dlc_docklands_128.png</IconFilename>
+				</Standard>
+				<ProductList>
+					<List>
+						<Item><Product>120014</Product></Item>
+						<Item><Product>1010243</Product></Item>
+                        <Item><Product>1010221</Product></Item>
+                        <Item><Product>1010223</Product></Item>
+                        <Item><Product>1010224</Product></Item>
+                        <Item><Product>133183</Product></Item>
+						<Item><Product>133181</Product></Item>
+						<Item><Product>133185</Product></Item>
+						<Item><Product>133532</Product></Item>
+                        <Item><Product>1010211</Product></Item>
+						<Item><Product>135230</Product></Item>
+						<Item><Product>135229</Product></Item>
+						<Item><Product>135086</Product></Item>
+						<Item><Product>135087</Product></Item>
+						<Item><Product>135129</Product></Item>
+						<Item><Product>135231</Product></Item>
+						<Item><Product>135232</Product></Item>
+						<Item><Product>135233</Product></Item>
+						<Item><Product>135234</Product></Item>
+					</List>
+				</ProductList>
+			</Values>
+		</Asset>
 	</ModOp>
     <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
 		<Item>
@@ -161,6 +263,66 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_nw_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
+	<ModOp Type="addnextsibling" GUID='502233'>
+		<Asset>
+			<Template>ProductList</Template>
+			<Values>
+				<Standard>
+					<GUID>1600000022</GUID>
+					<Name>NW_ImportGoods</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_dlc_docklands_128.png</IconFilename>
+				</Standard>
+				<ProductList>
+					<List>
+						<Item><Product>120042</Product></Item>
+						<Item><Product>120036</Product></Item>
+						<Item><Product>120043</Product></Item>
+						<Item><Product>1010251</Product></Item>
+                        <Item><Product>1010253</Product></Item>
+						<Item><Product>1010240</Product></Item>
+                        <Item><Product>120031</Product></Item>
+                        <Item><Product>1010233</Product></Item>
+                        <Item><Product>133093</Product></Item>
+						<Item><Product>133095</Product></Item>
+						<Item><Product>133097</Product></Item>
+						<Item><Product>134616</Product></Item>
+                        <Item><Product>1010259</Product></Item>
+						<Item><Product>1010254</Product></Item>
+						<Item><Product>1010239</Product></Item>
+						<Item><Product>135186</Product></Item>					
+						<Item><Product>135150</Product></Item>
+						<Item><Product>135130</Product></Item>
+                        <Item><Product>25131</Product></Item>
+						<Item><Product>25506</Product></Item>
+						<Item><Product>24808</Product></Item>
+						<Item><Product>24807</Product></Item>
+						<Item><Product>5393</Product></Item>
+						<Item><Product>5394</Product></Item>
+						<Item><Product>836</Product></Item>
+						<Item><Product>1414</Product></Item>
+                        <Item><Product>5380</Product></Item>
+                        <Item><Product>5381</Product></Item>
+                        <Item><Product>5382</Product></Item>
+                        <Item><Product>5383</Product></Item>
+                        <Item><Product>5384</Product></Item>
+                        <Item><Product>5386</Product></Item>
+                        <Item><Product>5388</Product></Item>
+                        <Item><Product>5390</Product></Item>
+                        <Item><Product>5391</Product></Item>
+                        <Item><Product>5392</Product></Item>
+                        <Item><Product>5395</Product></Item>
+                        <Item><Product>5397</Product></Item>
+                        <Item><Product>5398</Product></Item>
+                        <Item><Product>5400</Product></Item>
+                        <Item><Product>5401</Product></Item>
+                        <Item><Product>5803</Product></Item>
+                        <Item><Product>6280</Product></Item>
+                        <Item><Product>6600</Product></Item>
+					</List>
+				</ProductList>
+			</Values>
+		</Asset>
+	</ModOp>
     <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
 		<Item>
 			<TraderName>1600000014</TraderName>
@@ -186,6 +348,32 @@
             <TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_arctic_0.png</TraderMoodImage>
         </Item>
 	</ModOp>
+	<ModOp Type="addnextsibling" GUID='502233'>
+		<Asset>
+			<Template>ProductList</Template>
+			<Values>
+				<Standard>
+					<GUID>1600000023</GUID>
+					<Name>Arctic_ImportGoods</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_dlc_docklands_128.png</IconFilename>
+				</Standard>
+				<ProductList>
+					<List>
+						<Item><Product>112699</Product></Item>
+						<Item><Product>112705</Product></Item>
+						<Item><Product>112696</Product></Item>
+						<Item><Product>112701</Product></Item>
+						<Item><Product>112702</Product></Item>
+						<Item><Product>112695</Product></Item>
+						<Item><Product>112700</Product></Item>
+						<Item><Product>112698</Product></Item>
+						<Item><Product>112704</Product></Item>
+						<Item><Product>112703</Product></Item>
+					</List>
+				</ProductList>
+			</Values>
+		</Asset>
+	</ModOp>
     <ModOp Type = "Add" GUID='131764' Path="/Values/TradeContractFeature/Traders">
 		<Item>
 			<TraderName>1600000016</TraderName>
@@ -205,4 +393,28 @@
     <Include File="bresko.include.xml" />
     <Include File="hier0nimus.include.xml" />
     <Include File="drakkam.include.xml" />
+	<ModOp Type="addnextsibling" GUID='502233'>
+		<Asset>
+			<Template>ProductList</Template>
+			<Values>
+				<Standard>
+					<GUID>1600000024</GUID>
+					<Name>Modding_ImportGoods</Name>
+					<IconFilename>data/ui/2kimages/main/3dicons/icon_dlc_docklands_128.png</IconFilename>
+				</Standard>
+				<ProductList>
+					<List>
+					</List>
+				</ProductList>
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="add" GUID='502242' Path="/Values/ProductList/List">
+		<Item><Product>1600000019</Product></Item>
+		<Item><Product>1600000020</Product></Item>
+		<Item><Product>1600000021</Product></Item>
+		<Item><Product>1600000022</Product></Item>
+		<Item><Product>1600000023</Product></Item>
+		<Item><Product>1600000024</Product></Item>
+	</ModOp>
 </ModOps>
