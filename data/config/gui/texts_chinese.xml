@@ -4,11 +4,11 @@
 	1600000009 | Ultimate Docklands | 0.0.1 | Text Building-->	
 		<Text>
 			<GUID>1600000008</GUID>
-			<Text>Build I.N.G</Text>
+			<Text>建材商</Text>
 		</Text>
 		<Text>
 			<GUID>1600000009</GUID>
-			<Text>All goods, cheapest prices</Text>
+			<Text>应有尽有，物优价廉</Text>
 		</Text>
 	</ModOp>
 	<ModOp Type = "add" Path="TextExport/Texts">
@@ -16,11 +16,11 @@
 	1600000011 | Ultimate Docklands | 0.0.1 | Text OW-->	
 		<Text>
 			<GUID>1600000010</GUID>
-			<Text>Old World</Text>
+			<Text>旧世界</Text>
 		</Text>
 		<Text>
 			<GUID>1600000011</GUID>
-			<Text>All goods, cheapest prices</Text>
+			<Text>应有尽有，物优价廉</Text>
 		</Text>
 	</ModOp>
 	<ModOp Type = "add" Path="TextExport/Texts">
@@ -28,11 +28,11 @@
 	1600000013 | Ultimate Docklands | 0.0.1 | Text NW-->	
 		<Text>
 			<GUID>1600000012</GUID>
-			<Text>New World</Text>
+			<Text>新世界</Text>
 		</Text>
 		<Text>
 			<GUID>1600000013</GUID>
-			<Text>All goods, cheapest prices</Text>
+			<Text>应有尽有，物优价廉</Text>
 		</Text>
 	</ModOp>
 	<ModOp Type = "add" Path="TextExport/Texts">
@@ -40,35 +40,23 @@
 	1600000015 | Ultimate Docklands | 0.0.1 | Text Arctic-->	
 		<Text>
 			<GUID>1600000014</GUID>
-			<Text>Arctic</Text>
+			<Text>北极</Text>
 		</Text>
 		<Text>
 			<GUID>1600000015</GUID>
-			<Text>All goods, cheapest prices</Text>
+			<Text>应有尽有，物优价廉</Text>
 		</Text>
 	</ModOp>
 	<ModOp Type = "add" Path="TextExport/Texts">
-	<!--1600000016 | Ultimate Docklands | 0.0.1 | Text Colossus
-	1600000017 | Ultimate Docklands | 0.0.1 | Text Colossus-->	
+	<!--1600000016 | Ultimate Docklands | 0.0.1 | Text Mods
+		1600000017 | Ultimate Docklands | 0.0.1 | Text Mods-->	
 		<Text>
 			<GUID>1600000016</GUID>
-			<Text>Colossus</Text>
+			<Text>纪元模组</Text>
 		</Text>
 		<Text>
 			<GUID>1600000017</GUID>
-			<Text>All goods, cheapest prices</Text>
-		</Text>
-	</ModOp>
-	<ModOp Type = "add" Path="TextExport/Texts">
-	<!--1600000018 | Ultimate Docklands | 0.0.1 | Text Horizon
-	1600000019 | Ultimate Docklands | 0.0.1 | Text Horizon-->	
-		<Text>
-			<GUID>1600000018</GUID>
-			<Text>New Horizon</Text>
-		</Text>
-		<Text>
-			<GUID>1600000019</GUID>
-			<Text>All goods, cheapest prices</Text>
+			<Text>应有尽有，物优价廉</Text>
 		</Text>
 	</ModOp>
 </ModOps>
